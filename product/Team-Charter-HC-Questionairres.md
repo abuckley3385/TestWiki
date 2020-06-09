@@ -1,4 +1,4 @@
-# [Healthcare Experience - Questionaires] Charter
+# Healthcare Experience - Questionairres Charter
 
 ---
 
@@ -29,9 +29,9 @@ _Link to agile roadmap_
 ### Team Members:
 - DSVA Product Lead: _Lacy Higley _
 - Team Product Manager: _Amanda Buckley_
-- _Research & Design_: _Aricka Lewis_
-- _FE Engineer_: _Mark Dewey_
-- _BE Engineer_: _Lance Sanchez_
+- Research & Design: _Aricka Lewis_
+- FE Engineer: _Mark Dewey_
+- BE Engineer: _Lance Sanchez_
 
 ---
 
@@ -40,7 +40,7 @@ _Link to agile roadmap_
 ### Workflow + Cadence
 
 #### Stand-up
-Check in on people and product progress
+- Check in on people and product progress
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 ##### Zoom Stand-up
