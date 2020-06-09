@@ -24,7 +24,7 @@
  - [ ] Mark- public API spes to integrate
  - [ ] Amanda B- What tool exists for building form as that is a large scope so leveraging a cms and content to build forms gets this project ahead.
  - [ ] Mark -manual process data     
- - [ ] what is VA Strategy (framework) for building  Native- vs. responsive apps.   
+ - [ ] Amanda B -what is VA Strategy (framework) for building  Native- vs. responsive apps.   
  - [ ] Lance- HIPPA compliant?
  - yes the solution for intake forms of demographics and patient health data will need to be compliant.  Also need to investigate medical app risk assessment as new legislation passed where most portal workflows are now CE marking solutions.     
  - [ ] Patrick- SLA or existing service. uptime %
