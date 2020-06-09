@@ -1,4 +1,4 @@
-# Healthcare Experience - Questionairres Charter
+# Healthcare Experience - Questionnaires Charter
 
 ---
 
